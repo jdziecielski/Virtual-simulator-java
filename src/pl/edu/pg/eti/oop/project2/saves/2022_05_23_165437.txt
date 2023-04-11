@@ -1,0 +1,23 @@
+15
+5
+Fox 3 7 6 2 1
+Fox 3 7 6 1 5
+Fox 3 7 6 6 0
+Wolf 9 5 6 8 8
+Wolf 9 5 6 7 8
+HUMAN 5 4 6 5 3
+Antelope 4 4 6 2 9
+Sheep 4 4 6 8 4
+Sheep 4 4 6 9 3
+Sheep 4 4 0 9 2
+Sheep 4 4 0 9 1
+Sheep 4 4 0 8 2
+Turtle 2 1 6 2 8
+Turtle 2 1 6 0 3
+Grass 0 0 6 0 0
+Grass 0 0 6 1 0
+SowThistle 0 0 6 4 0
+Hogweed 10 0 6 4 7
+SowThistle 0 0 0 4 1
+SowThistle 0 0 0 3 0
+SowThistle 0 0 0 5 0

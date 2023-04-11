@@ -1,0 +1,21 @@
+15
+5
+Fox 3 7 5 5 5
+Fox 3 7 5 2 3
+Wolf 9 5 5 8 7
+Wolf 9 5 5 9 6
+Wolf 9 5 5 8 9
+Wolf 9 5 0 7 8
+HUMAN 5 4 5 4 0
+Antelope 4 4 5 1 7
+Sheep 4 4 5 8 2
+Sheep 4 4 5 6 1
+Antelope 4 4 4 6 9
+Turtle 2 1 5 2 8
+Grass 0 0 5 1 0
+Guarana 0 0 5 6 5
+Belladonna 99 0 5 6 6
+Hogweed 10 0 5 4 7
+Grass 0 0 4 0 0
+Belladonna 99 0 0 6 7
+Grass 0 0 0 0 1
