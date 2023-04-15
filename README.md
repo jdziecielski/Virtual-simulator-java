@@ -1,5 +1,6 @@
 # Virtual-simulator-java
 2D virtual simulator in Java implemented using swing, awt libraries. Game simulates behaviors of different animals and plants such as: fox, turtle, antelope, grass, sow thistle, guarana, and many more...
+It is worth mentioning the program is time dependant, if user will not take action (start the game, move to the next position) in a set time window, the action will be lost or the game will not start.
 
 
 ## Controls usable in this program:
